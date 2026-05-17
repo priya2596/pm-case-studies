@@ -111,17 +111,6 @@ Ship this and learn from how people use it. The data will tell you whether colou
 
 ---
 
-## Interactive wireframe
-
-Open `wireframe.html` in any browser to see the proposed interface.
-
-- Pins pane closed by default
-- Click Pins button to open with slide animation
-- Click highlighted text to see the pin menu
-- Compressed pin shown at reduced opacity
-
----
-
 ## What I learned from this process
 
 I started this thinking I wanted a bookmark feature. Through three LinkedIn posts, user research, and investigating existing tools, I arrived at something more precise:
